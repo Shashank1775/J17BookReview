@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "",
+    "appService.deploySubpath": "book-r-front",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
